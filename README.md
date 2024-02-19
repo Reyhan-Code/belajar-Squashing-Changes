@@ -2,3 +2,5 @@
 Belajar Squashing Changes di Dicoding!
 
 Hallo
+
+test
